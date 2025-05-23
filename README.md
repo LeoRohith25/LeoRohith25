@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi there! I'm Rohith PM, a passionate and curious Full <br>Stack Developer eager to build impactful and scalable <br>web applications. I recently completed my internship in full <br>stack development, where I gained hands-on experience <br>working with both frontend and backend technologies.<br><br>🔧 Tech Stack:<br><br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Tools & Platforms: Git, GitHub, VS Code, Postman<br><br>💡 What I’m Working On:<br><br>Currently exploring REST APIs, authentication systems, <br>and improving my skills in React and MongoDB by <br>building personal projects.<br><br>🎯 Goals:<br><br>* Contribute to open source projects<br>* Learn TypeScript and Next.js<br>* Land my first role as a Full Stack Developer<br><br><br>
+👋 About Me<br><br>Hi there! I'm Rohith PM, a passionate and curious Full <br>Stack Developer eager to build impactful and scalable <br>web applications. I recently completed my internship in full <br>stack development, where I gained hands-on experience <br>working with both frontend and backend technologies.<br><br>
+<br><br>💡 What I’m Working On:<br><br>Currently exploring REST APIs, authentication systems, <br>and improving my skills in React and MongoDB by <br>building personal projects.<br><br>🎯 Goals:<br><br>* Contribute to open source projects<br>* Learn TypeScript and Next.js<br>* Land my first role as a Full Stack Developer<br><br><br>
 
 
 ## 🌐 Socials:
